@@ -152,9 +152,150 @@ footer li {
 
 }
 
-footer>li {
+#social-network {
     font-size: 150%;
 }
+
+#gear-guru-front {
+    background: url('../images/ski-goggle.png') no-repeat center/cover;
+    height: 20vh;
+    padding: 2vh;
+    align-items: center;
+    display: flex;
+    color: #fff;
+    text-align: center;
+    justify-content: center;
+}
+
+.card1 {
+    background: url('../images/beginner-snowboarder.jpg') no-repeat center/cover;
+}
+
+.card2 {
+    background: url('../images/freeride-snowboarder.png') no-repeat center/cover;
+}
+
+.card3 {
+    background: url('../images/freestyle-snowboarder.jpg') no-repeat center/cover;
+}
+
+.card {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 2vh;
+    margin: 2vh;
+    width: 90%;
+    color: #fff;
+    text-align: center;
+    height: 40vh;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.coming-soon-banner {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: #ff0000;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    font-size: 14px;
+    text-transform: uppercase;
+    z-index: 1;
+}
+
+#gear-guru-cards {
+    display: flex;
+    flex-direction: column;
+
+
+    justify-content: center;
+    align-items: center;
+    padding: 2vh;
+    margin: 2vh;
+    width: 90%;
+    color: #fff;
+    text-align: center
+}
+
+
+#beginner {
+    background: url('../images/beginner-snowboarder.jpg') no-repeat center/cover;
+    height: 30vh;
+    padding: 2vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 150%;
+}
+
+#welcome-guru {
+    background: #dfdfdf;
+    margin-top: 2vh;
+    height: fit-content;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15% 5% 15% 5%;
+    color: #495c5d;
+    font-size: 95%;
+
+}
+
+#shoes {
+    background: #dfdfdf;
+    justify-content: center;
+    align-items: center;
+    padding: 2vh;
+
+}
+
+#shoes>h2 {
+    text-align: center;
+    margin: 2vh;
+}
+
+#shoes>p {
+    margin: 3vh
+}
+
+
+.infocards {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    justify-content: center;
+    align-items: center;
+    padding: 2vh;
+    margin: 2vh;
+    color: #fff;
+    text-align: center
+}
+
+
+
+
+.infocard {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 2vh;
+    margin: 2vh;
+    color: #fff;
+    text-align: center;
+    height: 40vh;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+
+
 
 
 @media screen and (min-width: 768px) {
@@ -209,5 +350,75 @@ footer>li {
         font-size: 130%;
         padding: 10% 20% 10% 20%;
 
+    }
+
+    footer {
+        display: flex;
+        flex-direction: row;
+        padding: 1vh;
+
+    }
+
+    footer>li,
+    footer>p {
+        margin-right: 5vh;
+    }
+
+    #hinttext {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        font-size: 110%;
+    }
+
+    #hinttext>p {
+        max-width: 50%;
+    }
+
+    #hinttext>h2 {
+        width: 50%;
+
+    }
+
+    #gear-guru-front {
+        height: 50vh;
+        padding: 10vh;
+        font-size: 160%;
+        margin-bottom: 5vh;
+
+    }
+
+    #gear-guru-cards {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        padding: 2vh;
+        margin: 2vh;
+        width: 90%;
+        color: #fff;
+        text-align: center;
+        height: 40vh;
+    }
+
+    .infocards {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        padding: 2vh;
+        margin: 2vh;
+        width: 90%;
+        color: #fff;
+        text-align: center;
+        height: 40vh;
+    }
+
+    .card:hover {
+        transform: scale(1.1);
+        transition: 0.5s;
+    }
+
+    #welcome-guru {
+        font-size: 130%;
+        padding: 10% 20% 10% 20%;
     }
 }
