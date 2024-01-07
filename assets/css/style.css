@@ -139,17 +139,22 @@ main {
 
 footer {
     background-color: #A6A6A6;
-    padding: 5% 10% 10% 5%;
+    padding: 15px 20px 20px 15px;
     justify-content: center;
     align-items: center;
     text-align: center;
+    display: flex;
 }
 
 footer li {
     list-style: none;
     color: #fff;
     padding: 2vh;
-
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
 }
 
 #social-network {
@@ -496,15 +501,15 @@ textarea {
 
     }
 
-    footer {
+    footer>ul {
         display: flex;
         flex-direction: row;
         padding: 1vh;
-
     }
 
-    footer>li,
-    footer>p {
+    footer li {
+
+        justify-content: space-evenly;
         margin-right: 5vh;
     }
 
