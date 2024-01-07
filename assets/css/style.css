@@ -444,6 +444,10 @@ textarea {
     object-fit: cover;
 }
 
+.hidden {
+    display: none;
+}
+
 
 @media screen and (min-width: 768px) {
     nav {
