@@ -428,6 +428,19 @@ textarea {
     margin: 2vh;
 }
 
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 10px;
+    margin-top: 20px;
+}
+
+.gallery img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
 
 @media screen and (min-width: 768px) {
     nav {
@@ -544,6 +557,21 @@ textarea {
     }
 
     .card:hover {
+        transform: scale(1.1);
+        transition: 0.5s;
+    }
+
+    #gear-guru-button:hover {
+        transform: scale(0.9);
+        transition: 0.5s;
+    }
+
+    #menu>li:hover {
+        transform: scale(1.1);
+        transition: 0.5s;
+    }
+
+    #logo:hover {
         transform: scale(1.1);
         transition: 0.5s;
     }
