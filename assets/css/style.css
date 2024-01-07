@@ -331,7 +331,7 @@ footer li {
 
 }
 
-#hybrid {
+.type-container {
     display: flex;
     flex-direction: column;
     width: 90%;
@@ -345,7 +345,7 @@ footer li {
 
 }
 
-#type {
+.type {
     position: relative;
     display: flex;
     flex-wrap: wrap;
@@ -355,7 +355,7 @@ footer li {
     margin: 3%;
 }
 
-#type>h3 {
+.type>h3 {
     padding: 0 2vh 2vh 0;
     font-size: 130%;
     font-weight: bold;
@@ -368,7 +368,7 @@ footer li {
     padding: 2vh;
 }
 
-#type-picture {
+.type-picture {
     width: 100%;
 }
 
@@ -596,11 +596,11 @@ textarea {
         height: 45vh;
     }
 
-    #hybrid {
+    .type-container {
         flex-direction: row;
     }
 
-    #type {
+    .type {
         width: 50%;
     }
 
