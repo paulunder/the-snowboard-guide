@@ -293,8 +293,8 @@ footer li {
     color: black;
     margin: 2vh;
     text-align: left;
-    height: 40vh;
-    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+    height: fit-content;
+    box-shadow: 1px 1px 5px 2px rgba(0, 0, 0, 0.3);
     background: #fff;
     border-radius: 5px;
 }
@@ -419,8 +419,6 @@ textarea {
     background: #fd7427;
     width: 150px;
     color: #fff;
-    align-items: left;
-
 }
 
 #map {
@@ -558,7 +556,7 @@ textarea {
         width: 90%;
         color: #fff;
         text-align: center;
-        height: 40vh;
+        height: 50vh;
     }
 
     .card:hover {
@@ -595,6 +593,7 @@ textarea {
     .infocard {
         font-size: 110%;
         width: 50%;
+        height: 45vh;
     }
 
     #hybrid {
