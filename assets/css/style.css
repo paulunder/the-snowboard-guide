@@ -310,7 +310,7 @@ footer li {
     padding: 2vh;
 }
 
-#snowboard>center>ol {
+#snowboard>.center>ol {
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -446,6 +446,21 @@ textarea {
 
 .hidden {
     display: none;
+}
+
+#contact {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
 }
 
 
