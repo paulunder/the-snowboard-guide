@@ -96,7 +96,7 @@ main {
 }
 
 #front {
-    background: url('../images/front-picture.png') no-repeat center/cover;
+    background: url('../images/front-picture.webp') no-repeat center/cover;
     height: 85vh;
     color: #fff;
     text-align: center;
@@ -113,7 +113,7 @@ main {
 }
 
 #gear-guru-button {
-    background: url('../images/orange-ski-goggle.png') no-repeat center/cover;
+    background: url('../images/orange-ski-goggle.webp') no-repeat center/cover;
     margin: 2vh;
     height: 20vh;
     text-align: center;
@@ -128,7 +128,7 @@ main {
 }
 
 #welcome-text {
-    background: url('../images/illustrated-snow-background.png') no-repeat center/cover;
+    background: url('../images/illustrated-snow-background.webp') no-repeat center/cover;
     height: fit-content;
     text-align: center;
     display: flex;
@@ -180,7 +180,7 @@ footer li {
 
 /* Gear Guru Page */
 #gear-guru-front {
-    background: url('../images/ski-goggle.png') no-repeat center/cover;
+    background: url('../images/ski-goggle.webp') no-repeat center/cover;
     height: 20vh;
     padding: 2vh;
     align-items: center;
@@ -191,15 +191,15 @@ footer li {
 }
 
 .card1 {
-    background: url('../images/beginner-snowboarder.jpg') no-repeat center/cover;
+    background: url('../images/beginner-snowboarder.webp') no-repeat center/cover;
 }
 
 .card2 {
-    background: url('../images/freeride-snowboarder.png') no-repeat center/cover;
+    background: url('../images/freeride-snowboarder.webp') no-repeat center/cover;
 }
 
 .card3 {
-    background: url('../images/freestyle-snowboarder.jpg') no-repeat center/cover;
+    background: url('../images/freestyle-snowboarder.webp') no-repeat center/cover;
 }
 
 .card {
@@ -246,7 +246,7 @@ footer li {
 
 
 #beginner {
-    background: url('../images/beginner-snowboarder.jpg') no-repeat center/cover;
+    background: url('../images/beginner-snowboarder.webp') no-repeat center/cover;
     height: 30vh;
     padding: 2vh;
     align-items: center;
@@ -318,7 +318,7 @@ footer li {
 }
 
 #snowboard {
-    background: url('../images/snowboard.jpg') no-repeat center/cover;
+    background: url('../images/snowboard.webp') no-repeat center/cover;
     color: #fff;
 }
 
@@ -392,7 +392,7 @@ footer li {
 
 /* Contact Page */
 .hero-text {
-    background: url('../images/illustrated-snow-background.png') no-repeat center/cover;
+    background: url('../images/illustrated-snow-background.webp') no-repeat center/cover;
     height: 40vh;
     padding: 3vh;
     align-items: center;
@@ -479,7 +479,7 @@ textarea {
 
 /* 404 page */
 .error {
-    background: url('../images/illustrated-snow-background.png') no-repeat center/cover;
+    background: url('../images/illustrated-snow-background.webp') no-repeat center/cover;
     height: 100vh;
     font-size: 200%;
     display: flex;
