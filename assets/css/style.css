@@ -154,7 +154,7 @@ main {
 }
 
 footer {
-    background-color: #A6A6A6;
+    background-color: #dfdfdf;
     padding: 15px 20px 20px 15px;
     justify-content: center;
     align-items: center;
@@ -164,7 +164,7 @@ footer {
 
 footer li {
     list-style: none;
-    color: #fff;
+    color: black;
     padding: 2vh;
     justify-content: space-between;
     align-items: center;
