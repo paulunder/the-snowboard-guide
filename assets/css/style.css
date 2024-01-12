@@ -18,7 +18,7 @@ body {
 }
 
 
-
+/* index.html */
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
@@ -161,6 +161,8 @@ footer li {
     font-size: 150%;
 }
 
+
+/* Gear Guru Page */
 #gear-guru-front {
     background: url('../images/ski-goggle.png') no-repeat center/cover;
     height: 20vh;
@@ -372,6 +374,7 @@ footer li {
     width: 100%;
 }
 
+/* Contact Page */
 .hero-text {
     background: url('../images/illustrated-snow-background.png') no-repeat center/cover;
     height: 40vh;
@@ -431,6 +434,7 @@ textarea {
     margin: 2vh;
 }
 
+/* Gallery Page */
 .gallery {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -470,6 +474,22 @@ textarea {
     text-align: center;
 }
 
+.error>a {
+    background: #d30000;
+    padding: 2vh;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+    margin-top: 2vh;
+}
+
+.error>a:hover {
+    scale: 0.9;
+    transition: 0.5s;
+}
+
+
+/* Media queries */
 
 @media screen and (min-width: 768px) {
     nav {
