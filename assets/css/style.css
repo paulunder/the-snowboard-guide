@@ -108,6 +108,10 @@ main {
     margin-bottom: 1rem;
 }
 
+#gear-guru-button-link {
+    text-decoration: none;
+}
+
 #gear-guru-button {
     background: url('../images/orange-ski-goggle.png') no-repeat center/cover;
     margin: 2vh;
