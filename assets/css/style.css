@@ -457,6 +457,19 @@ textarea {
     text-align: center;
 }
 
+/* 404 page */
+.error {
+    background: url('../images/illustrated-snow-background.png') no-repeat center/cover;
+    height: 100vh;
+    font-size: 200%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #fff;
+    text-align: center;
+}
+
 
 @media screen and (min-width: 768px) {
     nav {
