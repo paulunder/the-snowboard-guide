@@ -17,6 +17,18 @@ body {
     padding: 0 15px;
 }
 
+a {
+    color: black;
+}
+
+a:hover {
+    scale: 1.1;
+    text-underline-offset: 5px;
+    transition: 200ms;
+}
+
+
+
 
 /* index.html */
 /* Navbar styles with dropdown toggle */
@@ -490,7 +502,6 @@ textarea {
 
 
 /* Media queries */
-
 @media screen and (min-width: 768px) {
     nav {
         display: block;
