@@ -221,4 +221,29 @@ links to the Homepage, Contact page, Gallery and Gear Guru page
 ![Contact Form](docs/features/feature-contact-form.png)
 
 
+## Validation
+
+### HTML Validation
+The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
+<details><summary>Home</summary>
+<img src="docs/validation/validation-html-wholePage.png">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/validation/validation-html-contact.png">
+</details>
+<details><summary>Gallery</summary>
+<img src="docs/validation/validation-html-gallery.png">
+</details>
+<details><summary>Gear Guru</summary>
+<img src="docs/validation/validation-html-gear-guru.png">
+</details>
+
+### CSS Validation
+The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
+The validator found no errors.
+<details><summary>whole page</summary>
+<img src="docs/validation/validation-css-style.png">
+</details>
+
+
 
