@@ -178,4 +178,10 @@ links to the Homepage, Contact page, Gallery and Gear Guru page
 
 ![Welcome Text](docs/features/feature-welcome-text.png)
 
+### Gallery
+- Featured on the Gallery page
+- The gallery shows pictures of the snowboard guide and the adventures he had, also about other snowboarders
+
+![Gallery](docs/features/feature-gallery.png)
+
 
