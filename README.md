@@ -98,5 +98,18 @@
 13. As a returning user, I want to find out about snowboard events
 
 #### Site Owner 
+1. As a site owner, I want to build a community of enthusiastic snowboarders
+2. As a site owner, I want to increase the number of visitors
+3. As a site owner, I want to increase the number of affiliate sales
+4. As a site owner, I want to find some clients for snowboard lessons
+5. As a site owner, I want the users to find contact information about me
+
+## Design
+
+### Design Choices
+The website is designed to be simple and easy to navigate. The user can easily find the information they are looking for, especially for first time users. The website should be giving the user a feeling of professionalism and adventure. With stunning pictures it is able to catch the users attention and motivate them for snowboarding.
+
+### Colours
+
 
 
