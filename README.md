@@ -157,4 +157,4 @@ The page consists of five pages and fourteen features
 links to the Homepage, Contact page, Gallery and Gear Guru page
 - It allows users to easily navigate the page
 
-![Logo and navbar](docs/features/header.png)
+![Logo and navbar](docs/features/feature-header.png)
