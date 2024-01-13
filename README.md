@@ -132,3 +132,29 @@ The website is designed to be simple and easy to navigate. The user can easily f
 </details>
 
 
+## Technologies Used
+
+### Languages
+- HTML
+- CSS
+
+### Frameworks & Tools
+- Git
+- GitHub
+- VS Code
+- Affinity Designer
+- figma
+- Google Fonts
+- Font Awesome
+- Favicon<span>.</span>io
+
+## Features
+The page consists of five pages and fourteen features
+
+### Logo and Navigation Bar
+- Featured on all five pages
+- The navbar is fully responsive and changes to a toggler (hamburger menu) on smaller screens and includes
+links to the Homepage, Contact page, Gallery and Gear Guru page
+- It allows users to easily navigate the page
+
+![Logo and navbar](docs/features/header.png)
