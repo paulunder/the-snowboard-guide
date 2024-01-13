@@ -166,4 +166,12 @@ links to the Homepage, Contact page, Gallery and Gear Guru page
 
 ![Footer](docs/features/feature-footer.png)
 
+### Gear Guru Button
+- Featured on the Homepage
+- The button leads to the Gear Guru page
+
+![Gear Guru Button](docs/features/feature-gear-guru-button.png)
+
+
+
 
