@@ -111,7 +111,7 @@ The website is designed to be simple and easy to navigate. The user can easily f
 
 ### Colours
 
-![Colour palette](docs/color-palette.png)
+![Colour palette](docs/features/color-palette.png)
 
 //TODO: add Color and Font Section here.
 
