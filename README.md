@@ -172,6 +172,10 @@ links to the Homepage, Contact page, Gallery and Gear Guru page
 
 ![Gear Guru Button](docs/features/feature-gear-guru-button.png)
 
+### Welcome Text
+- Featured on the Homepage
+- The text welcomes the user to the page and gives a short introduction about the snowboard guide
 
+![Welcome Text](docs/features/feature-welcome-text.png)
 
 
