@@ -111,5 +111,24 @@ The website is designed to be simple and easy to navigate. The user can easily f
 
 ### Colours
 
+![Colour palette](docs/color-palette.png)
+
+//TODO: add Color and Font Section here.
+
+
+### Wireframes
+
+<details><summary>Home</summary>
+<img src="docs/wireframes/wireframes-index.png">
+</details>
+<details><summary>Gallery</summary>
+<img src="docs/wireframes/wireframes-gallery.png">
+</details>
+<details><summary>Gear Guru</summary>
+<img src="docs/wireframes/wireframes-gear-guru.png">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/wireframes/wireframes-contact.png">
+</details>
 
 
