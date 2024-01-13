@@ -18,7 +18,7 @@
     3. [User Stories](#user-stories)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
-    2. [Colour](#colours)
+    2. [color](#colors)
     3. [Fonts](#fonts)
     4. [Structure](#structure)
     5. [Wireframes](#wireframes)
@@ -109,9 +109,9 @@
 ### Design Choices
 The website is designed to be simple and easy to navigate. The user can easily find the information they are looking for, especially for first time users. The website should be giving the user a feeling of professionalism and adventure. With stunning pictures it is able to catch the users attention and motivate them for snowboarding.
 
-### Colours
+### colors
 
-![Colour palette](docs/features/color-palette.png)
+![color palette](docs/features/color-palette.png)
 
 //TODO: add Color and Font Section here.
 
@@ -158,3 +158,12 @@ links to the Homepage, Contact page, Gallery and Gear Guru page
 - It allows users to easily navigate the page
 
 ![Logo and navbar](docs/features/feature-header.png)
+
+### Footer
+- Featured on 4 pages (not on the 404 page)
+- The footer includes links to the Instagram, Contact page and an external page which supports the snowboard guide
+- The Footer also includes a "© 2024 The Snowboard Guide. All rights reserved." text
+
+![Footer](docs/features/feature-footer.png)
+
+
