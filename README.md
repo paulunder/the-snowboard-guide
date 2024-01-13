@@ -184,4 +184,41 @@ links to the Homepage, Contact page, Gallery and Gear Guru page
 
 ![Gallery](docs/features/feature-gallery.png)
 
+### Beginner Section
+- Featured on the Gear Guru page
+- The section shows gear recommendations for beginners
+
+![Beginner Section](docs/features/feature-beginner-section.png)
+
+### Boots Section
+- Featured on the Gear Guru page in the Beginner Section
+- The section shows gear recommendations for boots for beginners
+
+![Boots Section](docs/features/feature-boots-section.png)
+
+### Snowboard Section
+- Featured on the Gear Guru page in the Beginner Section
+- The section shows gear recommendations for snowboards for beginners
+
+![Snowboard Section](docs/features/feature-snowboard-section.png)
+
+### Skill Chooser
+- Featured on the Gear Guru page
+- The skill chooser allows the user to choose their skill level and shows gear recommendations based on the skill level
+
+![Skill Chooser](docs/features/feature-skill-chooser.png)
+
+### Map
+- Featured on the Contact page
+- The map shows the location of the snowboard guide
+
+![Map](docs/features/feature-map.png)
+
+### Contact Form
+- Featured on the Contact page
+- The contact form allows the user to contact the snowboard guide
+
+![Contact Form](docs/features/feature-contact-form.png)
+
+
 
