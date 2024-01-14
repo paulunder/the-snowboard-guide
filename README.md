@@ -342,7 +342,7 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer | Scroll down to the footer and click  | Expects informations about the snowboard guru | Works as expected |
+| Footer | Scroll down to the footer and click  | Expects informations about the snowboard guide | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-testing-v4.png">
@@ -368,17 +368,84 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/user-story-testing-v5.png">
 </details>
 
-
 6. As a returning user, I want to see gear reviews
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gear Guru Button | click on the Button to get to the Gear Guru  | Expects the Gear Guru | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-testing-v3.png">
+</details>
+
 7. As a returning user, I want to find out about latest gear releases in snowboarding section
-8. As a returning user, I want to find best locations for snowboarding
-9. As a returning user, I want to contact the snowboard guide
-10. As a returning user, I want to find out about the snowboard guide's social media presence
-11. As a returning user, I want to find out about the snowboard guide's snowboard lessons
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gear Guru Button | click on the Button to get to the Gear Guru  | Expects the Gear Guru | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-testing-v3.png">
+</details>
+
+8. As a returning user, I want to contact the snowboard guide
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact | click on Contact in Header  | Expects Contact Form or contact informations | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-testing-v6.png">
+</details>
+
+
+9. As a returning user, I want to find out about the snowboard guide's social media presence
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer | Scroll down to the footer and click  | Expects informations about the snowboard guide | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-testing-v4.png">
+</details>
 
 #### Site Owner 
 1. As a site owner, I want to build a community of enthusiastic snowboarders
-2. As a site owner, I want to increase the number of visitors
-3. As a site owner, I want to increase the number of affiliate sales
-4. As a site owner, I want to find some clients for snowboard lessons
-5. As a site owner, I want the users to find contact information about me
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer | Scroll down to the footer and click  | Expects informations about the snowboard guide | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-testing-v4.png">
+</details>
+
+2. As a site owner, I want visitors to find out more about snowboarding
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gear Guru Button | click on the Button to get to the Gear Guru  | Expects informations about snowboarding | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-testing-v3.png">
+</details>
+
+3. As a site owner, I want to make some affiliate sales
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gear Guru Button | placing ads and recommendations in the gear guru  | Expects the Gear Guru | Not implemented yet |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-testing-v3.png">
+</details>
+
+4. As a site owner, I want the users to find contact information about me
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact | click on Contact in Header  | Expects Contact Form or contact informations | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-testing-v6.png">
+</details>
