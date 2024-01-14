@@ -98,7 +98,7 @@ main {
 
 #front {
     background: url('../images/front-picture.webp') no-repeat center/cover;
-    background-color: #3a3a3a;
+    background-color: #33444E;
     height: 85vh;
     color: #fff;
     text-align: center;
@@ -123,6 +123,7 @@ main {
     justify-content: center;
     align-items: center;
     color: #fff;
+    background-color: #33444E;
 }
 
 #gear-guru-button h2 {
