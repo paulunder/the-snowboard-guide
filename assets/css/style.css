@@ -116,6 +116,7 @@ main {
 
 #gear-guru-button {
     background: url('../images/orange-ski-goggle.webp') no-repeat center/cover;
+    background-color: #33444E;
     margin: 2vh;
     height: 20vh;
     text-align: center;
@@ -123,7 +124,7 @@ main {
     justify-content: center;
     align-items: center;
     color: #fff;
-    background-color: #33444E;
+
 }
 
 #gear-guru-button h2 {
@@ -218,7 +219,6 @@ footer>ul>a {
     text-align: center;
     justify-content: center;
     background-color: #33444E;
-
 }
 
 .card1 {
@@ -360,7 +360,6 @@ footer>ul>a {
     background: url('../images/snowboard.webp') no-repeat center/cover;
     color: #fff;
     background-color: #33444E;
-
 }
 
 #snowboard>h2,
