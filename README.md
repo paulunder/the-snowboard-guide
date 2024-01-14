@@ -247,3 +247,25 @@ The validator found no errors.
 
 
 
+### Accessibility
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards.
+
+TODO add accessibility validation here - check WAVE
+
+### Performance 
+Google Pagespeed Insights was used to test the performance of the website. 
+
+<details><summary>Home</summary>
+<img src="docs/validation/pagespeedd-index.png">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/validation/pagespeed-contact.png">
+</details>
+<details><summary>Gallery</summary>
+<img src="docs/validation/pagespeed-gallery.png">
+</details>
+<details><summary>Gear Guru</summary>
+<img src="docs/validation/pagespeed-gear-guru.png">
+</details>
+
+
