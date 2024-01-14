@@ -142,6 +142,7 @@ The page is structured in a well know, recognizable, user friendly, and easy to 
 ### Languages
 - HTML
 - CSS
+- Javascript was only used for the map
 
 ### Frameworks & Tools
 - Git
