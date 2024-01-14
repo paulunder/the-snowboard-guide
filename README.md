@@ -449,3 +449,21 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-testing-v6.png">
 </details>
+
+
+## Deployment Process
+
+To deploy the website using GitHub Pages, the following steps were followed:
+
+1. Open the GitHub repository and go to the Settings tab.
+2. In the left-hand menu, choose Pages.
+3. Under the source settings, select the "master" branch.
+4. After the webpage automatically refreshes, you will see a banner at the top indicating: "Your site is published at https://github.com/paulunder/the-snowboard-guide."
+
+You can clone the repository by following these steps:
+1. Go to the GitHub repository 
+2. Locate the Code button above the list of files and click it 
+3. To clone the repository using HTTPS, under "Clone with HTTPS", click the clipboard icon. 
+4. Open your local terminal and paste the URL from the clipboard ($ git clone https://github.com/paulunder/the-snowboard-guide.git)
+5. Press Enter to create your local clone.
+
