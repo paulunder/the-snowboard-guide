@@ -295,22 +295,49 @@ The website was tested on the following browsers:
 
 
 2. As a first-time user, I want to easily navigate through the site
-3. As a first-time user, I want to find out more about the snowboard guide
-4. As a first-time user, I want to find out more about snowboarding
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Header - NavBar | clicking at a link to a page  | Expects another site | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-testing-v2.png">
+</details>
+
+3. As a first-time user, I want to find out more about the Gear Guru
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gear Guru Button | click on the Button to get to the Gear Guru  | Expects the Gear Guru | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-testing-v3.png">
+</details>
+
+
 
 #### Returning User
-1. As a returning user, I want to find out more about gear with terrain preferences
-2. As a returning user, I want to find out more about gear with skill level preferences
-3. As a returning user, I want to enhance my knowledge about snowboarding
-4. As a returning user, I want to find out more about the snowboard guide
-5. As a returning user, I want to change the riding style and see the gear recommendations
-6. As a returning user, I want to see experiences with other snowboarders
-7. As a returning user, I want to see gear reviews
-8. As a returning user, I want to find out about latest gear releases in snowboarding section
-9. As a returning user, I want to find best locations for snowboarding
-10. As a returning user, I want to contact the snowboard guide
-11. As a returning user, I want to find out about the snowboard guide's social media presence
-12. As a returning user, I want to find out about the snowboard guide's snowboard lessons
+1. As a returning user, I want to find out more about gear with skill level preferences
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Skill Chooser | click on the skill level you want to know more about  | Expects informations about skill based snowboard gear | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-testing-v3.png">
+</details>
+
+
+2. As a returning user, I want to enhance my knowledge about snowboarding
+3. As a returning user, I want to find out more about the snowboard guide
+4. As a returning user, I want to change the riding style and see the gear recommendations
+5. As a returning user, I want to see experiences with other snowboarders
+6. As a returning user, I want to see gear reviews
+7. As a returning user, I want to find out about latest gear releases in snowboarding section
+8. As a returning user, I want to find best locations for snowboarding
+9. As a returning user, I want to contact the snowboard guide
+10. As a returning user, I want to find out about the snowboard guide's social media presence
+11. As a returning user, I want to find out about the snowboard guide's snowboard lessons
 
 #### Site Owner 
 1. As a site owner, I want to build a community of enthusiastic snowboarders
