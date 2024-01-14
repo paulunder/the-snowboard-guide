@@ -18,7 +18,7 @@
     3. [User Stories](#user-stories)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
-    2. [color](#colors)
+    2. [Color](#Colors)
     3. [Fonts](#fonts)
     4. [Structure](#structure)
     5. [Wireframes](#wireframes)
@@ -103,11 +103,12 @@
 ### Design Choices
 The website is designed to be simple and easy to navigate. The user can easily find the information they are looking for, especially for first time users. The website should be giving the user a feeling of professionalism and adventure. With stunning pictures it is able to catch the users attention and motivate them for snowboarding.
 
-### colors
+### Colors
 
 ![color palette](docs/features/color-palette.png)
 
-//TODO: add Color and Font Section here.
+### Fonts
+K2D was chosen to be the main font for the website. It is a Google Font and was chosen because it looks adventurous and professional. 
 
 
 ### Wireframes
