@@ -358,7 +358,17 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/user-story-testing-v3.png">
 </details>
 
-5. As a returning user, I want to see experiences with other snowboarders
+5. As a returning user, I want to see pictures with other snowboarders
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gallery | click on Gallery in Header  | Expects pictures with snowboarders or mountains | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-testing-v5.png">
+</details>
+
+
 6. As a returning user, I want to see gear reviews
 7. As a returning user, I want to find out about latest gear releases in snowboarding section
 8. As a returning user, I want to find best locations for snowboarding
