@@ -155,7 +155,7 @@ The page is structured in a well know, recognizable, user friendly, and easy to 
 - Favicon<span>.</span>io
 
 ## Features
-The page consists of five pages and fourteen features
+The page consists of five pages (including 404 page)
 
 ### Logo and Navigation Bar
 - Featured on all five pages
