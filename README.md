@@ -79,29 +79,24 @@
 #### First-time User 
 1. As a first-time user, I want to understand the purpose of the site
 2. As a first-time user, I want to easily navigate through the site
-3. As a first-time user, I want to find out more about the snowboard guide
-4. As a first-time user, I want to find out more about snowboarding
+3. As a first-time user, I want to find out more about Gear Guru
 
 #### Returning User
-1. As a returning user, I want to find out more about gear with terrain preferences
-2. As a returning user, I want to find out more about gear with skill level preferences
-3. As a returning user, I want to enhance my knowledge about snowboarding
-4. As a returning user, I want to find out more about the snowboard guide
-5. As a returning user, I want to change the riding style and see the gear recommendations
-6. As a returning user, I want to see experiences with other snowboarders
-7. As a returning user, I want to see gear reviews
-8. As a returning user, I want to find out about latest gear releases in snowboarding section
-9. As a returning user, I want to find best locations for snowboarding
-10. As a returning user, I want to contact the snowboard guide
-11. As a returning user, I want to find out about the snowboard guide's social media presence
-12. As a returning user, I want to find out about the snowboard guide's snowboard lessons
+1. As a returning user, I want to find out more about gear with skill level preferences
+2. As a returning user, I want to enhance my knowledge about snowboarding
+3. As a returning user, I want to find out more about the snowboard guide
+4. As a returning user, I want to change the riding style and see the gear recommendations
+5. As a returning user, I want to see pictures with other snowboarders
+6. As a returning user, I want to see gear reviews
+7. As a returning user, I want to find out about latest gear releases in snowboarding section
+8. As a returning user, I want to contact the snowboard guide
+9. As a returning user, I want to find out about the snowboard guide's social media presence
 
 #### Site Owner 
 1. As a site owner, I want to build a community of enthusiastic snowboarders
-2. As a site owner, I want to increase the number of visitors
-3. As a site owner, I want to increase the number of affiliate sales
-4. As a site owner, I want to find some clients for snowboard lessons
-5. As a site owner, I want the users to find contact information about me
+2. As a site owner, I want visitors to find out more about snowboarding
+3. As a site owner, I want to make some affiliate sales
+4. As a site owner, I want the users to find contact information about me
 
 ## Design
 
@@ -475,3 +470,15 @@ In order of apearance:
 - [Freestyle Snowboarder Image](assets/images/freestyle-snowboarder.webp): <a href='https://www.pexels.com/de-de/foto/mann-im-snowboard-der-auf-rampe-springt-1635086/'>Foto von Tyler Tornberg</a>
 
 - [Beginner Snowboarder Image](assets/images/beginner-snowboarder.webp): <a href='https://www.pexels.com/de-de/foto/person-die-snowboard-halt-2071654/'>Foto von Joël Super</a>
+
+ 
+### Code
+In order of apearance:
+- The HTML for the responsive [Navbar with toggler](https://github.com/paulunder/love-running) was taken from the Love Running project, this project was also made with Code Institute.
+- [Map](https://stackoverflow.com/questions/62571474/open-street-maps-default-tiles-leaflet) The Map was taken and then modified a little bit from a Stackoverflow post - including the Javascript for the Map.
+- 404 page was build using description on [GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
+
+## Acknowledgements
+I would like to take the opportunity to thank:
+- My mentor Mo Shami for his advice.
+- My girlfriend for all the support.
