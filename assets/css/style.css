@@ -441,6 +441,7 @@ footer>ul>a {
     color: #fff;
     font-size: 120%;
     flex-direction: column;
+    background-color: #33444E;
 }
 
 .hero-text>h1 {
