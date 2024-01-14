@@ -140,6 +140,7 @@ main {
     padding: 15% 5% 15% 5%;
     color: #fff;
     font-size: 95%;
+    background-color: #33444E;
 }
 
 
@@ -216,18 +217,26 @@ footer>ul>a {
     color: #fff;
     text-align: center;
     justify-content: center;
+    background-color: #33444E;
+
 }
 
 .card1 {
     background: url('../images/beginner-snowboarder.webp') no-repeat center/cover;
+    background-color: #33444E;
+
 }
 
 .card2 {
     background: url('../images/freeride-snowboarder.webp') no-repeat center/cover;
+    background-color: #33444E;
+
 }
 
 .card3 {
     background: url('../images/freestyle-snowboarder.webp') no-repeat center/cover;
+    background-color: #33444E;
+
 }
 
 .card {
@@ -282,6 +291,8 @@ footer>ul>a {
     justify-content: center;
     color: #fff;
     font-size: 150%;
+    background-color: #33444E;
+
 }
 
 #welcome-guru {
@@ -348,6 +359,8 @@ footer>ul>a {
 #snowboard {
     background: url('../images/snowboard.webp') no-repeat center/cover;
     color: #fff;
+    background-color: #33444E;
+
 }
 
 #snowboard>h2,
