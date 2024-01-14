@@ -14,7 +14,7 @@
     2. [Site Owner Goals](#site-owner-goals)
 2. [User Experience](#user-experience)
     1. [Target Audience](#target-audience)
-    2. [User Requirements and Expectations](#user-requrements-and-expectations)
+    2. [User Requirements and Expectations](#user-requirements-and-expectations)
     3. [User Stories](#user-stories)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
@@ -104,6 +104,9 @@
 The website is designed to be simple and easy to navigate. The user can easily find the information they are looking for, especially for first time users. The website should be giving the user a feeling of professionalism and adventure. With stunning pictures it is able to catch the users attention and motivate them for snowboarding.
 
 ### Colors
+
+
+The colors here was mainly chosen because of the images I used. The colors (#33444E) and (#296D97) are mainly present in the images. The other colors were used to build the elements of the website.
 
 ![color palette](docs/features/color-palette.png)
 
