@@ -467,3 +467,11 @@ You can clone the repository by following these steps:
 4. Open your local terminal and paste the URL from the clipboard ($ git clone https://github.com/paulunder/the-snowboard-guide.git)
 5. Press Enter to create your local clone.
 
+## Credits
+Images not referenced below are owned by the developer. Most images were made with Midjourney Picture Generator.
+
+### Media
+In order of apearance:
+- [Freestyle Snowboarder Image](assets/images/freestyle-snowboarder.webp): <a href='https://www.pexels.com/de-de/foto/mann-im-snowboard-der-auf-rampe-springt-1635086/'>Foto von Tyler Tornberg</a>
+
+- [Beginner Snowboarder Image](assets/images/beginner-snowboarder.webp): <a href='https://www.pexels.com/de-de/foto/person-die-snowboard-halt-2071654/'>Foto von Joël Super</a>
