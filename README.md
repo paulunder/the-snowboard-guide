@@ -329,8 +329,35 @@ The website was tested on the following browsers:
 
 
 2. As a returning user, I want to enhance my knowledge about snowboarding
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gear Guru Button | click on the Button to get to the Gear Guru  | Expects the Gear Guru | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-testing-v3.png">
+</details>
+
 3. As a returning user, I want to find out more about the snowboard guide
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer | Scroll down to the footer and click  | Expects informations about the snowboard guru | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-testing-v4.png">
+</details>
+
 4. As a returning user, I want to change the riding style and see the gear recommendations
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Skill Chooser | click on the skill level you want to know more about  | Expects informations about skill based snowboard gear | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-testing-v3.png">
+</details>
+
 5. As a returning user, I want to see experiences with other snowboarders
 6. As a returning user, I want to see gear reviews
 7. As a returning user, I want to find out about latest gear releases in snowboarding section
