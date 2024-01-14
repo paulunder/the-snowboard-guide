@@ -95,7 +95,6 @@
 10. As a returning user, I want to contact the snowboard guide
 11. As a returning user, I want to find out about the snowboard guide's social media presence
 12. As a returning user, I want to find out about the snowboard guide's snowboard lessons
-13. As a returning user, I want to find out about snowboard events
 
 #### Site Owner 
 1. As a site owner, I want to build a community of enthusiastic snowboarders
@@ -269,3 +268,53 @@ Google Pagespeed Insights was used to test the performance of the website.
 </details>
 
 
+### Performing tests on various devices 
+The website was tested on the following devices:
+- MacBook Pro (2019)
+- Oneplus 8
+
+### Browser compatability
+The website was tested on the following browsers:
+- Brave Browser
+- Mozilla Firefox
+- Safari
+
+### Testing user stories
+
+1. As a first-time user, I want to understand the purpose of the site
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Welcome Text | on the Homepage scroll down  | Find welcome text | Works as expected |
+
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-testing-v1.png">
+</details>
+
+
+
+2. As a first-time user, I want to easily navigate through the site
+3. As a first-time user, I want to find out more about the snowboard guide
+4. As a first-time user, I want to find out more about snowboarding
+
+#### Returning User
+1. As a returning user, I want to find out more about gear with terrain preferences
+2. As a returning user, I want to find out more about gear with skill level preferences
+3. As a returning user, I want to enhance my knowledge about snowboarding
+4. As a returning user, I want to find out more about the snowboard guide
+5. As a returning user, I want to change the riding style and see the gear recommendations
+6. As a returning user, I want to see experiences with other snowboarders
+7. As a returning user, I want to see gear reviews
+8. As a returning user, I want to find out about latest gear releases in snowboarding section
+9. As a returning user, I want to find best locations for snowboarding
+10. As a returning user, I want to contact the snowboard guide
+11. As a returning user, I want to find out about the snowboard guide's social media presence
+12. As a returning user, I want to find out about the snowboard guide's snowboard lessons
+
+#### Site Owner 
+1. As a site owner, I want to build a community of enthusiastic snowboarders
+2. As a site owner, I want to increase the number of visitors
+3. As a site owner, I want to increase the number of affiliate sales
+4. As a site owner, I want to find some clients for snowboard lessons
+5. As a site owner, I want the users to find contact information about me
