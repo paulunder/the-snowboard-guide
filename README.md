@@ -468,6 +468,16 @@ The website was tested on the following browsers:
 </details>
 
 
+
+## Bugs
+
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+| WAVE validator validates low contrast on every fint with background image | added additionally a dark background-color |
+| pagespeed much to slow - pagespeed insights | added a preloader for hero image and made pictures much smaller with format .webp |
+
+
+
 ## Deployment Process
 
 To deploy the website using GitHub Pages, the following steps were followed:
