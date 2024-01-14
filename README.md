@@ -505,7 +505,11 @@ In order of apearance:
 
  
 ### Code
-In order of apearance:
+In order of appearance:
+
+https://codepen.io/mutedblues/pen/MmPNPG
+
+
 - The HTML for the responsive [Navbar with toggler](https://github.com/paulunder/love-running) was taken from the Love Running project, this project was also made with Code Institute.
 - [Map](https://stackoverflow.com/questions/62571474/open-street-maps-default-tiles-leaflet) The Map was taken and then modified a little bit from a Stackoverflow post - including the Javascript for the Map.
 - 404 page was build using description on [GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
