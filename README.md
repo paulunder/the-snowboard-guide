@@ -113,6 +113,13 @@ The colors here was mainly chosen because of the images I used. The colors (#334
 ### Fonts
 K2D was chosen to be the main font for the website. It is a Google Font and was chosen because it looks adventurous and professional. 
 
+### Structure
+The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving the user should immediatly know where to find certain informations. The navigation bar is always on the top of the page and the footer is always on the bottom of the page. The user can easily navigate through the page and find the informations they are looking for.
+- A homepage with welcome text and a big button to the Gear Guru
+- A Gear Guru page with gear recommendations based on the skill level
+- A Gallery page with pictures of the snowboard guide and other snowboarders
+- A contact page with a map and a contact form to contact the snowboard guide
+
 
 ### Wireframes
 
