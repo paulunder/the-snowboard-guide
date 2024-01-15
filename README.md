@@ -24,7 +24,7 @@
     5. [Wireframes](#wireframes)
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
-    2. [Frameworks & Tools](#frameworks-&-tools)
+    2. [Frameworks & Tools](#frameworks--tools)
 5. [Features](#features)
 6. [Testing](#validation)
     1. [HTML Validation](#HTML-validation)
