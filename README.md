@@ -477,6 +477,7 @@ The website was tested on the following browsers:
 | pagespeed much to slow - pagespeed insights | added a preloader for hero image and made pictures much smaller with format .webp |
 | WAVE validation failed in Navigation Bar | added visually hidden text to the label |
 | Gallery pictures have weird formations and is not responsive | added display:grid; fixed it |
+| text overflow in Gear Gurus - Beginner Boots Section | addded height: fit-content; |
 
 
 
