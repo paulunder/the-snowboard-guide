@@ -475,6 +475,8 @@ The website was tested on the following browsers:
 | ----------- | ----------- |
 | WAVE validator validates low contrast on every fint with background image | added additionally a dark background-color |
 | pagespeed much to slow - pagespeed insights | added a preloader for hero image and made pictures much smaller with format .webp |
+| WAVE validation failed in Navigation Bar | added visually hidden text to the label |
+| Gallery pictures have weird formations and is not responsive | added display:grid; fixed it |
 
 
 
@@ -503,14 +505,10 @@ In order of apearance:
 
 - [Beginner Snowboarder Image](assets/images/beginner-snowboarder.webp): <a href='https://www.pexels.com/de-de/foto/person-die-snowboard-halt-2071654/'>Foto von Joël Super</a>
 
- 
+
 ### Code
 In order of appearance:
-
-https://codepen.io/mutedblues/pen/MmPNPG
-
-
-- The HTML for the responsive [Navbar with toggler](https://github.com/paulunder/love-running) was taken from the Love Running project, this project was also made with Code Institute.
+- The HTML for the responsive [Navbar with toggler](https://github.com/paulunder/love-running) was taken from the Love Running project, this project was made with Code Institute.
 - [Map](https://stackoverflow.com/questions/62571474/open-street-maps-default-tiles-leaflet) The Map was taken and then modified a little bit from a Stackoverflow post - including the Javascript for the Map.
 - 404 page was build using description on [GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
 
