@@ -536,6 +536,7 @@ textarea {
     flex-direction: column;
     color: #fff;
     text-align: center;
+    background-color: #33444E;
 }
 
 .error>a {
