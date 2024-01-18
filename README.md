@@ -162,6 +162,7 @@ The page consists of five pages (including 404 page)
 - The navbar is fully responsive and changes to a toggler (hamburger menu) on smaller screens and includes
 links to the Homepage, Contact page, Gallery and Gear Guru page
 - It allows users to easily navigate the page
+- User Stories covered: 2
 
 ![Logo and navbar](docs/features/feature-header.png)
 
@@ -169,60 +170,70 @@ links to the Homepage, Contact page, Gallery and Gear Guru page
 - Featured on 4 pages (not on the 404 page)
 - The footer includes links to the Instagram, Contact page and an external page which supports the snowboard guide
 - The Footer also includes a "© 2024 The Snowboard Guide. All rights reserved." text
+- User Stories covered: 8, 9
 
 ![Footer](docs/features/feature-footer.png)
 
 ### Gear Guru Button
 - Featured on the Homepage
 - The button leads to the Gear Guru page
+- User Stories covered: 1
 
 ![Gear Guru Button](docs/features/feature-gear-guru-button.png)
 
 ### Welcome Text
 - Featured on the Homepage
 - The text welcomes the user to the page and gives a short introduction about the snowboard guide
+- User Stories covered: 1
 
 ![Welcome Text](docs/features/feature-welcome-text.png)
 
 ### Gallery
 - Featured on the Gallery page
 - The gallery shows pictures of the snowboard guide and the adventures he had, also about other snowboarders
+- User Stories covered: 5, 9
 
 ![Gallery](docs/features/feature-gallery.png)
 
 ### Beginner Section
 - Featured on the Gear Guru page
 - The section shows gear recommendations for beginners
+- User Stories covered: 2
 
 ![Beginner Section](docs/features/feature-beginner-section.png)
 
 ### Boots Section
 - Featured on the Gear Guru page in the Beginner Section
 - The section shows gear recommendations for boots for beginners
+- User Stories covered: 2
 
 ![Boots Section](docs/features/feature-boots-section.png)
 
 ### Snowboard Section
 - Featured on the Gear Guru page in the Beginner Section
 - The section shows gear recommendations for snowboards for beginners
+- User Stories covered: 2
 
 ![Snowboard Section](docs/features/feature-snowboard-section.png)
 
 ### Skill Chooser
 - Featured on the Gear Guru page
 - The skill chooser allows the user to choose their skill level and shows gear recommendations based on the skill level
+- User Stories covered: 1, 2, 4, 6, 7, 
 
 ![Skill Chooser](docs/features/feature-skill-chooser.png)
 
 ### Map
 - Featured on the Contact page
 - The map shows the location of the snowboard guide
+- User Stories covered: 8
 
 ![Map](docs/features/feature-map.png)
 
 ### Contact Form
 - Featured on the Contact page
 - The contact form allows the user to contact the snowboard guide
+- User Stories covered: 8
 
 ![Contact Form](docs/features/feature-contact-form.png)
 
