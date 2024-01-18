@@ -237,6 +237,13 @@ links to the Homepage, Contact page, Gallery and Gear Guru page
 
 ![Contact Form](docs/features/feature-contact-form.png)
 
+### 404 Page
+- Featured on the 404 page
+- The 404 page shows a message that the page was not found
+- User Stories covered: 2
+
+![404 Page](docs/features/feature-404.png)
+
 
 ## Validation
 
