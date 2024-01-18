@@ -186,24 +186,23 @@ footer li {
     flex-direction: column;
 }
 
-footer>ul>a {
+#social-network {
     list-style: none;
     text-decoration: none;
     color: black;
     padding: 2vh;
     width: 20px;
+    height: 20px;
     margin: 2vh;
-
-    justify-content: space-between;
+    font-size: 150%;
+    justify-content: center;
     align-items: center;
     text-align: center;
     display: flex;
     flex-direction: column;
 }
 
-#social-network {
-    font-size: 150%;
-}
+
 
 .visually-hidden {
     position: absolute;
