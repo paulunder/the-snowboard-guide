@@ -340,7 +340,7 @@ The website was tested on the following browsers:
 </details>
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-testing-v7.png">
+<img src="docs/user-story-testing/user-story-testing-v7.webp">
 </details>
 
 3. As a first-time user, I want to find out more about the Gear Guru
